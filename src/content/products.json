@@ -1,0 +1,62 @@
+[
+  {
+    "slug": "demo-studio-t-shirt",
+    "name": "Demo Studio T-Shirt",
+    "priceINR": 499,
+    "status": "in-stock",
+    "sizes": ["S", "M", "L", "XL"],
+    "images": ["/images/placeholder/demo-studio-t-shirt.jpg", "/images/placeholder/demo-studio-t-shirt-back.jpg"],
+    "details": ["Placeholder merchandise, not available to order", "Mock cotton tee with a geometric DoTA print", "Sample relaxed fit"],
+    "orderUrl": "https://forms.gle/placeholder"
+  },
+  {
+    "slug": "demo-after-hours-hoodie",
+    "name": "Demo After Hours Hoodie",
+    "priceINR": 1199,
+    "status": "pre-order",
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "images": ["/images/placeholder/demo-after-hours-hoodie.jpg", "/images/placeholder/demo-after-hours-hoodie-detail.jpg"],
+    "details": ["Placeholder merchandise, not available to order", "Mock heavyweight fleece with a studio back print", "Sample unisex fit"],
+    "orderUrl": "https://forms.gle/placeholder"
+  },
+  {
+    "slug": "demo-grid-tote",
+    "name": "Demo Grid Tote",
+    "priceINR": 299,
+    "status": "in-stock",
+    "sizes": ["ONE SIZE"],
+    "images": ["/images/placeholder/demo-grid-tote.jpg", "/images/placeholder/demo-grid-tote-detail.jpg"],
+    "details": ["Placeholder merchandise, not available to order", "Mock canvas tote for sketchbooks and lab notes", "Sample single-colour grid print"],
+    "orderUrl": "https://forms.gle/placeholder"
+  },
+  {
+    "slug": "demo-signal-sticker-pack",
+    "name": "Demo Signal Sticker Pack",
+    "priceINR": 99,
+    "status": "sold-out",
+    "sizes": [],
+    "images": ["/images/placeholder/demo-signal-sticker-pack.jpg"],
+    "details": ["Placeholder merchandise, not available to order", "Mock set of six geometric club stickers", "Sample matte finish"],
+    "orderUrl": "https://forms.gle/placeholder"
+  },
+  {
+    "slug": "demo-campus-frequency-poster",
+    "name": "Demo Campus Frequency Poster",
+    "priceINR": 199,
+    "status": "pre-order",
+    "sizes": ["A3"],
+    "images": ["/images/placeholder/demo-campus-frequency-poster.jpg"],
+    "details": ["Placeholder merchandise, not available to order", "Mock generative print inspired by campus sound", "Sample unframed A3 edition"],
+    "orderUrl": "https://forms.gle/placeholder"
+  },
+  {
+    "slug": "demo-node-keychain",
+    "name": "Demo Node Keychain",
+    "priceINR": 149,
+    "status": "sold-out",
+    "sizes": ["ONE SIZE"],
+    "images": ["/images/placeholder/demo-node-keychain.jpg", "/images/placeholder/demo-node-keychain-detail.jpg"],
+    "details": ["Placeholder merchandise, not available to order", "Mock acrylic charm with a wireframe node graphic", "Sample split-ring attachment"],
+    "orderUrl": "https://forms.gle/placeholder"
+  }
+]

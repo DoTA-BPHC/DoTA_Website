@@ -1,0 +1,86 @@
+[
+  {
+    "slug": "demo-aadi",
+    "name": "Demo Aadi",
+    "role": "Placeholder club coordinator",
+    "team": "core",
+    "photo": "/images/placeholder/demo-aadi.jpg"
+  },
+  {
+    "slug": "demo-isha",
+    "name": "Demo Isha",
+    "role": "Placeholder events coordinator",
+    "team": "core",
+    "photo": "/images/placeholder/demo-isha.jpg"
+  },
+  {
+    "slug": "demo-kabir",
+    "name": "Demo Kabir",
+    "role": "Placeholder web lead",
+    "team": "web",
+    "photo": "/images/placeholder/demo-kabir.jpg"
+  },
+  {
+    "slug": "demo-meera",
+    "name": "Demo Meera",
+    "role": "Placeholder creative developer",
+    "team": "web",
+    "photo": "/images/placeholder/demo-meera.jpg"
+  },
+  {
+    "slug": "demo-veer",
+    "name": "Demo Veer",
+    "role": "Placeholder hardware prototyper",
+    "team": "web",
+    "photo": "/images/placeholder/demo-veer.jpg"
+  },
+  {
+    "slug": "demo-nila",
+    "name": "Demo Nila",
+    "role": "Placeholder design lead",
+    "team": "design",
+    "photo": "/images/placeholder/demo-nila.jpg"
+  },
+  {
+    "slug": "demo-dev",
+    "name": "Demo Dev",
+    "role": "Placeholder graphic designer",
+    "team": "design",
+    "photo": "/images/placeholder/demo-dev.jpg"
+  },
+  {
+    "slug": "demo-tara",
+    "name": "Demo Tara",
+    "role": "Placeholder 3D lead",
+    "team": "3d",
+    "photo": "/images/placeholder/demo-tara.jpg"
+  },
+  {
+    "slug": "demo-om",
+    "name": "Demo Om",
+    "role": "Placeholder environment artist",
+    "team": "3d",
+    "photo": "/images/placeholder/demo-om.jpg"
+  },
+  {
+    "slug": "demo-rohan",
+    "name": "Demo Rohan",
+    "role": "Placeholder video lead",
+    "team": "video",
+    "photo": "/images/placeholder/demo-rohan.jpg"
+  },
+  {
+    "slug": "demo-anaya",
+    "name": "Demo Anaya",
+    "role": "Placeholder motion artist",
+    "team": "video",
+    "photo": "/images/placeholder/demo-anaya.jpg"
+  },
+  {
+    "slug": "demo-sana",
+    "name": "Demo Sana",
+    "role": "Placeholder sound designer",
+    "team": "video",
+    "photo": "/images/placeholder/demo-sana.jpg"
+  }
+]

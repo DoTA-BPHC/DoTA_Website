@@ -1,0 +1,53 @@
+[
+  {
+    "slug": "demo-shader-jam",
+    "title": "Demo Shader Jam",
+    "date": "2026-11-07",
+    "venue": "BITS Hyderabad, demo computer lab",
+    "summary": "Placeholder event: make a looping shader poster with a small student team. This is a fictional listing.",
+    "status": "upcoming",
+    "link": "https://forms.gle/placeholder"
+  },
+  {
+    "slug": "demo-creative-hardware-lab",
+    "title": "Demo Creative Hardware Lab",
+    "date": "2026-11-21",
+    "venue": "BITS Hyderabad, demo maker room",
+    "summary": "Placeholder event: prototype a touch-controlled light or sound object. This is a fictional listing.",
+    "status": "upcoming",
+    "link": "https://forms.gle/placeholder"
+  },
+  {
+    "slug": "demo-winter-showcase",
+    "title": "Demo Winter Showcase",
+    "date": "2026-12-05",
+    "venue": "BITS Hyderabad, demo exhibition space",
+    "summary": "Placeholder event: share work-in-progress games, films and printed experiments. This is a fictional listing.",
+    "status": "upcoming",
+    "link": "https://forms.gle/placeholder"
+  },
+  {
+    "slug": "demo-blender-starter-session",
+    "title": "Demo Blender Starter Session",
+    "date": "2026-08-22",
+    "venue": "BITS Hyderabad, demo computer lab",
+    "summary": "Placeholder archive: a beginner session on modelling a tiny campus scene. This event did not take place.",
+    "status": "past"
+  },
+  {
+    "slug": "demo-zine-exchange",
+    "title": "Demo Zine Exchange",
+    "date": "2026-09-12",
+    "venue": "BITS Hyderabad, demo student common room",
+    "summary": "Placeholder archive: students swap small printed stories about campus life. This event did not take place.",
+    "status": "past"
+  },
+  {
+    "slug": "demo-projection-evening",
+    "title": "Demo Projection Evening",
+    "date": "2026-10-10",
+    "venue": "BITS Hyderabad, demo screening room",
+    "summary": "Placeholder archive: a screening of student motion loops and audio-reactive visuals. This event did not take place.",
+    "status": "past"
+  }
+]
