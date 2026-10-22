@@ -46,7 +46,7 @@
 body {
   background: var(--color-cream);
   color: var(--color-black);
-  font-family: var(--font-sans);
+  font-family: var(--font-geist-sans), system-ui, sans-serif;
 }
 
 :focus-visible {
